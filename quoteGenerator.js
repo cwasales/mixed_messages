@@ -1,7 +1,7 @@
 /*
         AUTHOR: Kristin
         DATE: 12/21/2021
-        TITLE: Mixed Message Generator  
+        TITLE: FAMOUS QUOTE GENERATOR  
         */
 
 //CREATE THREE PIECES OF DATA THAT WILL BE ADDED TO RANDOM QUOTES ARRAY MESSAGE
